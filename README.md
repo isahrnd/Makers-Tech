@@ -29,7 +29,7 @@ The ChatBot uses basic natural language processing to understand user queries an
 git clone 
 
 # Navigate to project directory
-cd makers-tech-chatbot
+cd Makers-Tech
 
 # Install dependencies
 npm install
@@ -38,7 +38,7 @@ npm install
 npm run dev
 ```
 
-The project will be available at `http://localhost:5173`
+The project will be available at `http://localhost:8080`
 
 ## What the Bot Does
 
