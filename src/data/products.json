@@ -1,0 +1,149 @@
+{
+  "computers": [
+    {
+      "id": "comp-001",
+      "name": "HP Pavilion Gaming",
+      "brand": "HP",
+      "type": "Laptop",
+      "price": 1299,
+      "stock": 2,
+      "specs": {
+        "processor": "Intel Core i5-11400H",
+        "ram": "16GB DDR4",
+        "storage": "512GB SSD",
+        "graphics": "NVIDIA GTX 1650",
+        "screen": "15.6\" Full HD"
+      },
+      "category": "gaming",
+      "description": "Laptop gaming potente para desarrolladores y gamers",
+      "rating": 4.3
+    },
+    {
+      "id": "comp-002",
+      "name": "Dell XPS 13",
+      "brand": "Dell",
+      "type": "Laptop",
+      "price": 1699,
+      "stock": 1,
+      "specs": {
+        "processor": "Intel Core i7-1165G7",
+        "ram": "16GB LPDDR4",
+        "storage": "1TB SSD",
+        "graphics": "Intel Iris Xe",
+        "screen": "13.3\" 4K Touch"
+      },
+      "category": "ultrabook",
+      "description": "Ultrabook premium para profesionales",
+      "rating": 4.7
+    },
+    {
+      "id": "comp-003",
+      "name": "MacBook Air M2",
+      "brand": "Apple",
+      "type": "Laptop",
+      "price": 1999,
+      "stock": 1,
+      "specs": {
+        "processor": "Apple M2",
+        "ram": "8GB Unified Memory",
+        "storage": "256GB SSD",
+        "graphics": "Apple M2 GPU",
+        "screen": "13.6\" Liquid Retina"
+      },
+      "category": "premium",
+      "description": "La nueva generación de MacBook con chip M2",
+      "rating": 4.8
+    }
+  ],
+  "accessories": [
+    {
+      "id": "acc-001",
+      "name": "Logitech MX Master 3",
+      "brand": "Logitech",
+      "type": "Mouse",
+      "price": 129,
+      "stock": 8,
+      "specs": {
+        "connectivity": "Wireless/Bluetooth",
+        "battery": "70 días",
+        "sensor": "4000 DPI",
+        "compatibility": "Windows, Mac, Linux"
+      },
+      "category": "peripherals",
+      "description": "Mouse inalámbrico premium para productividad",
+      "rating": 4.6
+    },
+    {
+      "id": "acc-002",
+      "name": "Keychron K2 V2",
+      "brand": "Keychron",
+      "type": "Teclado",
+      "price": 179,
+      "stock": 5,
+      "specs": {
+        "layout": "75% Compact",
+        "switches": "Gateron Blue",
+        "connectivity": "Wireless/USB-C",
+        "battery": "4000mAh"
+      },
+      "category": "peripherals",
+      "description": "Teclado mecánico inalámbrico compacto",
+      "rating": 4.4
+    },
+    {
+      "id": "acc-003",
+      "name": "Samsung T7 Portable SSD",
+      "brand": "Samsung",
+      "type": "Almacenamiento",
+      "price": 159,
+      "stock": 12,
+      "specs": {
+        "capacity": "1TB",
+        "speed": "1050 MB/s",
+        "connectivity": "USB 3.2 Gen 2",
+        "size": "85 x 57 x 8mm"
+      },
+      "category": "storage",
+      "description": "SSD portátil ultra rápido y compacto",
+      "rating": 4.5
+    }
+  ],
+  "smartphones": [
+    {
+      "id": "phone-001",
+      "name": "iPhone 14 Pro",
+      "brand": "Apple",
+      "type": "Smartphone",
+      "price": 1299,
+      "stock": 3,
+      "specs": {
+        "processor": "A16 Bionic",
+        "ram": "6GB",
+        "storage": "128GB",
+        "camera": "48MP Triple",
+        "screen": "6.1\" Super Retina XDR"
+      },
+      "category": "flagship",
+      "description": "El smartphone más avanzado de Apple",
+      "rating": 4.7
+    },
+    {
+      "id": "phone-002",
+      "name": "Samsung Galaxy S23",
+      "brand": "Samsung",
+      "type": "Smartphone",
+      "price": 1099,
+      "stock": 4,
+      "specs": {
+        "processor": "Snapdragon 8 Gen 2",
+        "ram": "8GB",
+        "storage": "256GB",
+        "camera": "50MP Triple",
+        "screen": "6.1\" Dynamic AMOLED"
+      },
+      "category": "flagship",
+      "description": "Smartphone Android premium con cámara excepcional",
+      "rating": 4.6
+    }
+  ]
+}
